@@ -1,0 +1,73 @@
+/*menu*/
+.box-menu .navbar{
+	margin-bottom: 0px;
+}
+
+.box-menu li:hover{
+	background-color: #BABABA;
+}
+
+ /*menu*/
+.box-banner{
+	width: 100%;
+	background-image: url(../img/01_img.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat; 
+}
+
+.box-banner .text-banner{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.box-banner h2{
+	color:#fff;
+}
+
+/*cuerpo*/
+.box-cuerpo h1{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.box-cuerpo iframe{
+	width: 100%;
+}
+
+/*cuerpo uno*/
+.img-fluid{
+	width: 100%;
+}
+
+.box-cuerpo-uno{
+	margin-top: 50px;
+	background-color: yellow;
+}
+
+.box-cuerpo-uno .col-md-6{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+/*cuerpo dos*/
+.box-cuerpo-dos{
+	margin-top: 50px;
+	padding-bottom: 50px;
+}
+
+.box-cuerpo-dos .form-control{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+/*pie*/
+.box-pie{
+	height: 100px;
+	background-color: #6795FF;
+}
+
+.box-pie{
+	color:#fff;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
